@@ -1,0 +1,28 @@
+body
+{
+  background-position: center;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 4px dashed white;
+}
+
+h4
+{
+    background-color: black;
+    line-height: 2;
+    margin: 0px;
+    color: yellow;
+}
